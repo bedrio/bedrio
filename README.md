@@ -5,5 +5,6 @@
 
 <br>
 
+
 ![Bedrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedrio&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bedrio&layout=compact&theme=vue-dark)
