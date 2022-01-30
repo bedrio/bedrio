@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Bedrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedrio&theme=vue-dark&show_icons=true&count_private=true)
+![Bedrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedrio&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 
 <!--
 **bedrio/bedrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
