@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 Senior pursuing both B.S. Computer Science and M.S. Robotics and Autonomous Systems (Artificial Intelligence) at ![Arizona State University](https://www.asu.edu/) 
-- 🌱 I’m currently learning MatPlotLib
+- 🌱 I’m currently learning MatPlotLib and Scipy
 - 📫 How to reach me: bedrrifai1@gmail.com
 
 <br>
